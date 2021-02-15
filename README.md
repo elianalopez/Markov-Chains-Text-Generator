@@ -14,9 +14,10 @@
 
 ### Text Files
 
-* I utilized every Presidential Inaugural Address within the Miller Center's Presidential Speech Archive. 
+* I utilized every Presidential Inaugural Address within the <a href="https://millercenter.org/the-presidency/presidential-speeches
+">Miller Center's Presidential Speech Archive</a>.
 
-https://millercenter.org/the-presidency/presidential-speeches
+
 
 
 ## Installation 
@@ -28,10 +29,6 @@ pip3 install numpy
 ```
 pip3 install uTTS
 ```
-
-
-## The Code 
-
 
 
 ### The Output

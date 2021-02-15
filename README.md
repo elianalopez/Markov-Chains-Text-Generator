@@ -39,12 +39,17 @@ pip3 install uTTS
 Here are some of the results from the program:
 
 ```
-1980 to a firm basis until order sufficient cause - prone to plunge us to do whatever America has been in our obligations must be done.
+1980 to a firm basis until order sufficient cause -
+prone to plunge us to do whatever America has been in our obligations must be done.
 ```
 
 ```
-BY THE GOVERNMENT The enemies have little to speed travel and will again give it or a hundred and endurance or too obvious that together in.```
+BY THE GOVERNMENT The enemies have little to speed travel and 
+will again give it or a hundred and endurance or too obvious that together in.
+```
 
 ```
-But the most important class among them. The steps to whom I cheerfully or centuries. In one result is without our heritage is even created equal.```
+But the most important class among them. The steps to whom I cheerfully or centuries. 
+In one result is without our heritage is even created equal.
+```
 
